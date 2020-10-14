@@ -1,5 +1,5 @@
 title: Runtime
-description: The Runtime Working Group is responsible for AMP's core runtime, such as layout/rendering and data binding.
+description: Responsible for AMP's core runtime, such as layout/rendering and data binding.
 facilitator:
   login: jridgewell
   name: Justin Ridgewell
